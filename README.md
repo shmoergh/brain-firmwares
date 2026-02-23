@@ -10,4 +10,4 @@ This is a collection of firmwares for the [Brain module](https://github.com/shmo
 - [Basic MIDI2CV converter](https://github.com/shmoergh/brain-basic-midi2cv) — Single channel MIDI to CV converter.
 
 ## CV
-- [CV utilities](https://github.com/shmoergh/brain-cv-utils) — 6 CV utilities packed in a single firmware. 🚧 **WORK IN PROGRESS**
+- [CV utilities](https://github.com/shmoergh/brain-cv-utils) — 6 CV utilities packed in a single program.
