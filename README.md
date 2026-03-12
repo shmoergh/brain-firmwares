@@ -11,3 +11,4 @@ This is a collection of firmwares for the [Brain module](https://github.com/shmo
 
 ## CV
 - [CV utilities](https://github.com/shmoergh/brain-cv-utils) — 6 CV utilities packed in a single program.
+- [LFO](https://github.com/mrmattallison/brain-programs/tree/master/lfo) — Sine, triangle, sawtooth, square, stepped random, smooth random low frequency oscillators. By [Matt Allison](https://github.com/mrmattallison)
